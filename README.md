@@ -1,2 +1,1 @@
-# -Transo-
-Charging app
+# Transo-
