@@ -1,4 +1,4 @@
-# Transo-
+
 # Transo
 
 Transo is a smart logistics and freight transport platform.
